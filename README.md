@@ -44,7 +44,7 @@
 
 | Main Menu | World Map Selection | Turn-Based Combat | Treasure Rewards |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/main_menu.png" width="200"/> | <img src="screenshots/world_map.png" width="200"/> | <img src="screenshot/combat_grid.png" width="200"/> | <img src="screenshot/treasure_reward.png" width="200"/> |
+| <img src="screenshots/main_menu.png" width="200"/> | <img src="screenshots/world_map.png" width="200"/> | <img src="screenshots/combat_grid.png" width="200"/> | <img src="screenshots/treasure_reward.png" width="200"/> |
 
 ---
 
